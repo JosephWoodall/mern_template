@@ -16,8 +16,9 @@ function App() {
 
   return (
     <>
-      <h1>MERN App!</h1>
+      <h1>Template MERN App!</h1>
       <p>Data from server: {data}</p>
+      <img src="cat_coughing.jpg" alt="Cat that is Coughing lol"></img>
     </>
   );
 }
